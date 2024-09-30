@@ -1,2 +1,2 @@
-# boa
-a project that managing a bank account with features to deposit, withdraw, and track monthly expenses that will keep track of your balance and generate a monthly summary of transactions.
+# Memory Assistant for Alzehimer patients 
+a project that assists Alzheimer's patients with memory retention would require several components, including a mechanism for storing and recalling information (such as important dates, names, or tasks), as well as a way to prompt the user at the right time. The idea is to use a combination of reminders, repetition, and associations to help the patient retain memory.  bonus features: top priority tasks, normal priority tasks, and a mechanism for reporting memory performance to healthcare providers based on user feedback.
